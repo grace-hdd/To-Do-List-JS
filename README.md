@@ -30,4 +30,4 @@ A clean, responsive, and intuitive To-Do List application built with vanilla Jav
 ---
 
 ## Live Demo
-<a href="https://grace-hdd.github.io/To-Do-List-JS/" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://grace-hdd.github.io/To-Do-List-JS/" target="_blank" rel="noopener noreferrer">To Do List</a>
