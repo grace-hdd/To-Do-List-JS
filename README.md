@@ -26,3 +26,8 @@ A clean, responsive, and intuitive To-Do List application built with vanilla Jav
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+
+---
+
+## Live Demo
+<a href="https://grace-hdd.github.io/To-Do-List-JS/" target="_blank" rel="noopener noreferrer"></a>
